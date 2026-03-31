@@ -4,6 +4,8 @@ This project explores sales, customer behavior, and operational performance for 
 
 
 Objectives
+
+
 Understand sales trends across products, days, and store locations
 
 Identify top‑performing and underperforming product categories
