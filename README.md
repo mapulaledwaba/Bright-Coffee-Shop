@@ -15,6 +15,7 @@ Analyze customer purchasing patterns
 Provide data‑driven recommendations to improve revenue and efficiency
 
 🛠️ Tools & Technologies
+
 Miro
 
 Canva
