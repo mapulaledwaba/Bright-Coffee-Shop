@@ -65,3 +65,6 @@ Promote cold beverages during warmer months
 Revisit pricing for low‑margin items
 
 Use loyalty data to personalize offers
+
+
+Created by Lesego Mapula Ledwaba
